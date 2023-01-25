@@ -37,6 +37,7 @@ export default function Main() {
         rgb({r}, {g}, {b})
       </h2>
       <div>
+        <label>Red</label>
         <button name="red" onClick={handleDecrement}>
           -
         </button>
